@@ -1,0 +1,8 @@
+{
+  "ProductId": "YOUR_EOS_PRODUCT_ID",
+  "SandboxId": "YOUR_EOS_SANDBOX_ID",
+  "DeploymentId": "YOUR_EOS_DEPLOYMENT_ID",
+  "ClientId": "YOUR_EOS_CLIENT_ID",
+  "ClientSecret": "YOUR_EOS_CLIENT_SECRET",
+  "EncryptionKey": "YOUR_EOS_ENCRYPTION_KEY"
+}
